@@ -6,7 +6,7 @@
 
 ## 📖 About me
 
-* 💻 I'm a frontend web developer
+* 💻 I'm a frontend developer
 * 🎨 I'm a self-taught UI designer
 * 🎓 I'm a Computer Science student
 * 🌐 You can see some of my projects in my github repository
